@@ -1,6 +1,6 @@
 # Employee-API
 
-A simple asynchronous project. The project uses aiohttp, aiofiles, aiobotocore for asynchronous operations. PostgreSQL was used for the database management system and the operations on the database were done with SqlAlchemy. The data is kept in both csv file and uploaded to AWS s3. <br>
+:fallen_leaf: A simple asynchronous project. The project uses aiohttp, aiofiles, aiobotocore for asynchronous operations. PostgreSQL was used for the database management system and the operations on the database were done with SqlAlchemy. The data is kept in both csv file and uploaded to AWS s3. <br>
 
 :heavy_check_mark: ***What are the things to do before using it?*** <br>
 - You must activate the virtual environment in the project: **source employee/bin/active**
