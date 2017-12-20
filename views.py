@@ -28,4 +28,5 @@ async def handle_post(request):
         writer = csv.writer(file)
         await writer.writerow(data.values())
 
+    await upload()
     return web.json_response(data)
