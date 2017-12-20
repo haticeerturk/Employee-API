@@ -1,5 +1,4 @@
 import aiofiles
-import asyncio
 import csv
 import json
 
